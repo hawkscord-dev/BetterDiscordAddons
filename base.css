@@ -1,6 +1,6 @@
-@import url(https://hawkscord-dev.github.io/theme-storage/Themes/_res/SettingsIcons.css);
-@import url(https://hawkscord-dev.github.io/theme-storage/Themes/_res/UsrBgs.css);
-@import url(https://hawkscord-dev.github.io/theme-storage/Themes/BlurpleRecolor/BlurpleRecolor.css);
+@import url(https://hawkscord-dev.github.io/Themes/_res/SettingsIcons.css);
+@import url(https://hawkscord-dev.github.io/Themes/_res/UsrBgs.css);
+@import url(https://hawkscord-dev.github.io/Themes/BlurpleRecolor/BlurpleRecolor.css);
 
 :root {
 	--font:							Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
